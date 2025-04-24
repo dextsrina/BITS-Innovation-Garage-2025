@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #e6e6fa; /* Light purple */
-    background-image: url('https://mysite.wellpoint.com/:i:/r/personal/al85346_ad_wellpoint_com/Documents/Desktop/BLAHBLAHBLAH/BITS_InnovGarage2025/INNER%20(1).png?csf=1&web=1&e=tqAAUx'); /* Replace with your image path */
+    background-image:'https://mysite.wellpoint.com/:i:/r/personal/al85346_ad_wellpoint_com/Documents/Desktop/BLAHBLAHBLAH/BITS_InnovGarage2025/INNER%20(1).png?csf=1&web=1&e=tqAAUx'; /* Replace with your image path */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
