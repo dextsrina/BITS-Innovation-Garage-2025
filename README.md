@@ -1,2 +1,2 @@
-# innovation-garage-2025
+# BITS Innovation Garage 2025
  BITS Projects
